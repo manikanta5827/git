@@ -5,5 +5,6 @@ async function init() {
   
   // client.quit();
 }
+console.log('hiii');
 
 init();
